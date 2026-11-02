@@ -1,15 +1,12 @@
---voidedx-obfuscation-profile-32
+--aayan-obfuscation-profile-32
 --[[
-   ##   ##  #####  ###### #####  ###### #####  ##   ## 
-   ##   ## ##   ##   ##   ##  ## ##     ##  ##  ## ##  
-   ##   ## ##   ##   ##   ##  ## ####   ##  ##   ###   
-    ## ##  ##   ##   ##   ##  ## ##     ##  ##  ## ##  
-     ###    #####  ###### #####  ###### #####  ##   ## 
-
-   VOIDEDX OBFUSCATION   //   voidedx.vercel.app   //   profile 32
-   do not resell   |   all rights reserved
+    ####    ####   ##  ##   ####   ##   ##       ##   ##  ######
+   ##  ##  ##  ##  ##  ##  ##  ##  ###  ##       ##   ##      ##
+   ######  ######   ####   ######  ## # ##        ## ##    #####
+   ##  ##  ##  ##    ##    ##  ##  ##  ###         ###        ##
+   ##  ##  ##  ##    ##    ##  ##  ##   ##          #     ######
 ]]
--- VoidedX
+-- aayanzz
 local _roponip2,_qejo1,_pejufo9,_nuga1=string.byte,string.char,string.sub,string.len local _cehuf9=table.concat local _jila8=table.unpack or unpack local _mecir9=math.floor local _rifen6=type local _kehu3=pcall local _hosaqus5=rawequal local _kagosow0=error local _voqe8=debug local _kepaxo8=_voqe8 and _voqe8 .gethook or nil local _nadedu8=_voqe8 and _voqe8 .sethook or nil local _gafer7=type(getgenv)=="function"and getgenv or nil local _pakico1=nil do local _lazube9=_voqe8 if _lazube9 then _pakico1=_lazube9 .info or _lazube9 .getinfo end end local _jagesi3=string.dump local _seluge2=function(_dapu9)local _bazeliq2=_nuga1(_dapu9)local _dobed8=(270*156+758)%101 if _dobed8<0 then return nil end local _tuki2=65535 local _nubatat6=65535 local _ruwexi6=1 while _ruwexi6<=_bazeliq2 do _tuki2=(_tuki2+_roponip2(_dapu9,_ruwexi6))%65535 _nubatat6=(_nubatat6+_tuki2)%65535 _ruwexi6
 =_ruwexi6+1 end return _nubatat6*65536+_tuki2 end do local Il15Z8Zg28gl=28222 local q6Z2oIG5l=0 for OQ9SZI9S=1,7 do if Il15Z8Zg28gl==28222 then q6Z2oIG5l=math.max(72,math.min(38,4610))if q6Z2oIG5l>309 then Il15Z8Zg28gl=28222 else Il15Z8Zg28gl=36043 end elseif Il15Z8Zg28gl==86820 then q6Z2oIG5l=(59%444+2573%357)%357 if q6Z2oIG5l>106 then Il15Z8Zg28gl=26221 else Il15Z8Zg28gl=26221 end elseif Il15Z8Zg28gl==26221 then q6Z2oIG5l=(6898*547+3259)%470 if q6Z2oIG5l>43 then Il15Z8Zg28gl=86820 else Il15Z8Zg28gl=28222 end elseif Il15Z8Zg28gl==36043 then q6Z2oIG5l=(5028*548+2730)%507 if q6Z2oIG5l>449 then Il15Z8Zg28gl=28222 else Il15Z8Zg28gl=28222 end end end Il15Z8Zg28gl=nil;q6Z2oIG5l=nil end local _wamoroz4="hG8FWKTp7yNXMlCtojgn3uHDc-Eb".."q2SkR9UaL1YPJQxde0s".."5v4m6ABz_ViwfZOrI"local _carixo6={}do local _loto8=1 while _loto8<=64 do _carixo6[_roponip2(_wamoroz4,_loto8)]=_loto8-1 _loto8=_loto8
 +1 end end local _meqa7=function(_poqe9)local _dexina4=_nuga1(_poqe9)local _soxifo2=0 local _joha4=(180*31+482)%132 if _joha4<0 then return nil end for _cugu5=1,_dexina4 do _soxifo2=(_soxifo2+_roponip2(_poqe9,_cugu5)*(_cugu5*8997%4294967296))%4294967296 end return _soxifo2 end do local Bo5l22QO19={12,44,2,34,30,37,25,29,43,62,34,23,1}local DQGG90QoG9151={157,189,44,167}local DZ69q8loQ526O=1 while DZ69q8loQ526O<=#Bo5l22QO19 do local G880OS1=Bo5l22QO19[DZ69q8loQ526O];DZ69q8loQ526O=DZ69q8loQ526O+1 local Q902B1=(G880OS1%4)+1;local g926110ZBB129=(math.floor(G880OS1/4)%4)+1;local G890GBS0B=math.floor(G880OS1/16)if G890GBS0B==0 then DQGG90QoG9151[Q902B1]=(DQGG90QoG9151[Q902B1]+DQGG90QoG9151[g926110ZBB129]
